@@ -1,0 +1,13 @@
+C:\Programming\Recording\Recording\bin\Debug\netcoreapp3.1\Recording.exe
+C:\Programming\Recording\Recording\bin\Debug\netcoreapp3.1\Recording.deps.json
+C:\Programming\Recording\Recording\bin\Debug\netcoreapp3.1\Recording.runtimeconfig.json
+C:\Programming\Recording\Recording\bin\Debug\netcoreapp3.1\Recording.runtimeconfig.dev.json
+C:\Programming\Recording\Recording\bin\Debug\netcoreapp3.1\Recording.dll
+C:\Programming\Recording\Recording\bin\Debug\netcoreapp3.1\Recording.pdb
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.csprojAssemblyReference.cache
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.AssemblyInfoInputs.cache
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.AssemblyInfo.cs
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.csproj.CoreCompileInputs.cache
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.dll
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.pdb
+C:\Programming\Recording\Recording\obj\Debug\netcoreapp3.1\Recording.genruntimeconfig.cache
